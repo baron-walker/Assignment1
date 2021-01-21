@@ -1,0 +1,27 @@
+﻿body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+label {
+    font-size: 20px;
+    color: blue;
+    width: 100px;
+    display: inline-block;
+}
+
+ul.ideal-jobs li {
+    list-style-type: none;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+p {
+    width: 300px;
+}
+
+html{
+    align-content: center;
+}
